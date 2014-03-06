@@ -28,24 +28,20 @@ Una comunidad **pierde** su derecho a ser miembro si:
 La **estructura organica** de #Meta consiste en:
 
 * **co-Chairs (2)**
-
     * Son los responsables de ejecutar las diferentes actividades asignadas por el Consejo Principal Permanente.
     * No son jefes, son coordinadores y actores.
     * Se eligen cada 6 meses, con posibilidad de reelegirse.
 
 * **Tesorero (1)**
-
     * Las mismas responsabilidades que el co-chair
     * Manejar las finanzas del grupo y dar reporte ante los consejos
 
 * **Consejo Central**
-
     * Compuesto por todos los grupos de usuario de #Meta. Cada grupo de usuario tiene un miembro.
     * Toman decisiones por votación mayoritaria.
     * Las reuniones son convocadas por uno de los coChair o por el Tesorero.
 
 * **Consejo de Regentes**
-
     * Compuesto por los miembros fundadores de #Meta.
     * Los grupos de interés que tengan más 1 año formando parte de la organización
     * Toman decisiones por mayoría de dos terceras partes.
