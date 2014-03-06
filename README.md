@@ -1,4 +1,0 @@
-charter
-=======
-
-Charter y Politicas
